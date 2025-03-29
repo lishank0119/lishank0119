@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Shank (lishank0119)
 
-<!--
-**lishank0119/lishank0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Interested in scalable backend systems, game servers, and system design  
+- 🛠 Languages: Golang (main), JavaScript/TypeScript  
+- 🎯 Strengths: Fast prototyping, clean architecture, and high stability code  
 
-Here are some ideas to get you started:
+## 📂 Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[fibril](https://github.com/lishank0119/fibril)**  
+  A WebSocket hub solution based on GoFiber, designed for efficient real-time communication.
+
+- **[shardingmap](https://github.com/lishank0119/shardingmap)**  
+  A simple and flexible sharding logic implementation in Go.
+
+---
+
+📫 Feel free to connect if you're into backend tech, Go projects, or just want to chat!
