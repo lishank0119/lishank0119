@@ -14,7 +14,3 @@
 
 - **[pubsub](https://github.com/lishank0119/pubsub)**  
   A lightweight in-process publish-subscribe system with topic-based subscription and built-in unsubscribe logic.
-
----
-
-📫 Feel free to connect if you're into backend tech, Go projects, or just want to chat!
